@@ -1,9 +1,12 @@
 # tso-andrew-retzlaff-activity-two
 Create games from scratch using GitHub CoPilot A "build your own" activity tied to TS&amp;O standards
 
-## Number Guessing Game
+## Guessing Games
 
-The computer chooses a number from 1 to 100. Keep guessing until you find it, using the higher and lower hints.
+Choose between two games:
+
+- **Number guessing:** Find the computer's number from 1 to 100 using higher and lower hints.
+- **GitHub word guessing:** Guess letters to reveal a GitHub term.
 
 Run the game with:
 
